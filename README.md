@@ -36,7 +36,7 @@ The dataset covers 9 December 2023 to 9 November 2025.
 
 - Power BI – Data modeling, DAX measures, and dashboard creation
 
-- Gamma – Business presentation (PPT) creation
+- Pi – Presentation (PPT) creation
 
 - GitHub – Version control and project documentation
 
@@ -54,7 +54,7 @@ The dataset covers 9 December 2023 to 9 November 2025.
 
 - Create a written analytical report
 
-- Present insights using a slide deck (Gamma)
+- Present insights using a slide deck (Pi)
 
 ## 🧪 Data Cleaning & EDA (Python)
 
