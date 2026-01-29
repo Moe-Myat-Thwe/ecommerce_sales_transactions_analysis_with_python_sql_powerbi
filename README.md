@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Transactions Analysis
+# 📊 E-commerce Sales Performance & Revenue Optimization Analysis
 ## 📌 Overview
 
 This project focuses on analyzing e-commerce sales transaction data to uncover insights related to revenue performance, profitability, discount impact, customer behavior, and operational efficiency.
