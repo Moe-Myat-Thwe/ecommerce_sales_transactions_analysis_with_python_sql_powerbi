@@ -5,7 +5,8 @@ This project focuses on analyzing e-commerce sales transaction data to uncover i
 
 The goal is to demonstrate an end-to-end data analytics workflow, starting from raw data processing to business-ready insights delivered through an interactive dashboard and presentation.
 
-<img width="1376" height="734" alt="image" src="https://github.com/user-attachments/assets/b748f092-cf64-4f0b-a99b-d9def87ccec2" />
+<img width="1385" height="735" alt="image" src="https://github.com/user-attachments/assets/3e7f6b49-50ff-4e51-be7a-6d38b4e657c7" />
+
 
 
 ## 📁 Dataset
